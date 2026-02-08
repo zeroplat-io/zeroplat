@@ -76,12 +76,9 @@ Enterprise – For larger organizations (up to 10 devs, 3+ products, private tic
 <br>
 
 ## 🤝 Contributing
-
 We welcome community feedback!
 Open an issue or discussion to suggest features, improvements, or report bugs.
-
 <br>
-
 ## 📬 Contact
 - 🌐 Website: [zeroplat.io](https://zeroplat.io)  
 - 📧 Email: info@zeroplat.io  
