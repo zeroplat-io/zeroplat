@@ -1,10 +1,14 @@
 # Zeroplat 🚀
 
-> **Build full-stack business applications visually with AI.**
+## What is Zeroplat?
 
-Zeroplat is an open-source **AI-powered Low-Code / No-Code platform** for building modern business applications without repetitive coding.
+Zeroplat is an open-source, AI-powered Low-Code / No-Code platform for building modern business applications visually.
 
-Design responsive user interfaces, connect databases and APIs, write JavaScript and SQL, automate workflows, and deploy enterprise-ready applications from a single visual platform.
+It provides a complete full-stack development experience, allowing you to design responsive user interfaces, connect databases and APIs, write JavaScript and SQL, automate business workflows, and deploy enterprise-ready applications from a single visual environment.
+
+Built on ASP.NET Core, ABP Framework, and React, Zeroplat combines enterprise-grade architecture with the speed and simplicity of visual development.
+
+---
 
 🌐 **Website:** https://zeroplat.io  
 📖 **Documentation:** https://docs.zeroplat.io  
