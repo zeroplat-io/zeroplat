@@ -1,20 +1,12 @@
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/4.png)
-
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/8.png)
-
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/5.png)
-
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/6.png)
-
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/7.png)
-
 # Zeroplat 🚀  
-**Build apps faster with the next-gen Low-Code / No-Code Platform**
+**Build complate visual web apps faster with the next-gen Low-Code / No-Code Platform**
 
 Zeroplat is a powerful **Low-Code / No-Code development platform** that helps you design, build and deploy modern applications in minutes – without writing endless lines of code.  
 Whether you are a **startup**, **enterprise**, or **freelance developer**, Zeroplat saves you time, reduces cost, and accelerates innovation.
 
 🌐 [Official Website](https://zeroplat.io) | 🎥 [Demo Videos](https://www.youtube.com/@zeroplatform) | 📖 [Documentation](https://docs.zeroplat.io) | ❓ [Ask a Question](https://ask.zeroplat.io)
+
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/4.png)
 
 <br>
 
@@ -47,23 +39,6 @@ Zeroplat is built on a modern, enterprise-ready stack:
   - [Material-UI](https://mui.com/) + [DevExtreme](https://js.devexpress.com/) (UI components)  
   - State management with Zustand & context 
 
-<br>
-
-## 🔍 Zeroplat vs Alternatives
-
-| Feature / Platform        | Zeroplat 🚀            | Retool | Appsmith | Tooljet | Superblocks | abp.io |
-|----------------------------|------------------------|--------|----------|---------|-------------|--------|
-| **Full Source Code**       | ✅ Included            | ❌     | ❌       | ❌      | ❌          | ✅     |
-| **Backend Stack**          | .NET 9 (ABP.io)        | NodeJS | NodeJS   | NodeJS  | Python      | .NET 9 |
-| **Frontend Stack**         | React 18 + TypeScript  | React  | React    | React   | React       | Angular|
-| **Self-Hosting**           | ✅ Yes                 | ✅     | ✅       | ✅      | ✅          | ✅     |
-| **Multi-Tenancy**          | ✅ Built-in            | ⚠️ Limited | ❌   | ❌      | ❌          | ✅     |
-| **Workflow / BPM Engine**  | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ❌     |
-| **Dynamic Localization**   | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ⚠️ Limited |
-| **Marketplace Modules**    | ✅ Yes                 | ❌     | ❌       | ❌      | ❌          | ❌     |
-| **Licensing**              | One-time fee + source  | SaaS   | SaaS     | SaaS    | SaaS        | Commercial |
-| **Target Users**           | Dev Teams / Enterprises| Startups| Startups| Startups| Startups    | .NET Devs |
-
 
 
 ✅ **Why Zeroplat?**  
@@ -91,4 +66,15 @@ Open an issue or discussion to suggest features, improvements, or report bugs.
 - 📧 Email: info@zeroplat.io  
 - 💼 LinkedIn: [Zeroplat](https://www.linkedin.com/company/zeroplat)
 - 🎥 YouTube: [@zeroplatform](https://www.youtube.com/@zeroplatform)  
-- ❓ Ask a Question: [ask.zeroplat.io](https://ask.zeroplat.io)  
+- ❓ Ask a Question: [ask.zeroplat.io](https://ask.zeroplat.io)
+
+
+<br>
+
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/8.png)
+
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/5.png)
+
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/6.png)
+
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/7.png)
