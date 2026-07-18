@@ -18,7 +18,7 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 - 🛠️ **Marketplace Ready** – extend your apps with ready-made modules and components.  
 - 🔒 **Role & Permission System** – fine-grained control at role, user, and organization levels.  
 - 📊 **Custom Dashboards** – build real-time dashboards with charts, grids, and widgets.  
-- 🖥️ **.NET 9 / React 18** stack – modern, scalable, and enterprise-ready.  
+- 🖥️ **.NET 10 / React 19** stack – modern, scalable, and enterprise-ready.  
 
 <br>
 
@@ -27,7 +27,7 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 Zeroplat is built on a modern, enterprise-ready stack:
 
 - **Backend**
-  - [.NET 9 / ASP.NET Core](https://dotnet.microsoft.com/)  
+  - [.NET 10 / ASP.NET Core](https://dotnet.microsoft.com/)  
   - [ABP Framework](https://abp.io/) (modular architecture, multi-tenancy, OpenIddict)  
   - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) (MS SQL, MySQL, PostgreSQL, SQLite support)  
   - [OpenIddict](https://documentation.openiddict.com/) (authentication & authorization)  
