@@ -13,7 +13,7 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 
 ## ✨ Key Features
 - ⚡ **Visual App Builder** – drag-and-drop components to create pages, user components, dashboards, and workflows.  
-- 🔄 **Workflow / BPM Engine** – design approval flows, notifications, and business processes with zero coding.  
+- 🔄 **Workflow / BPM** – design approval flows, notifications, and business processes with zero coding.  
 - 🌍 **Multi-Tenant & Multi-Language** – manage unlimited tenants and customize language resources dynamically.  
 - 🛠️ **Marketplace Ready** – extend your apps with ready-made modules and components.  
 - 🔒 **Role & Permission System** – fine-grained control at role, user, and organization levels.  
